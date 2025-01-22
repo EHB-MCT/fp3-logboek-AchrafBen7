@@ -16,7 +16,7 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 -Ik ben gestart met de creatie van de opneem functionaliteit. Tot nu toe heb ik de voicerecorder geïmplementeerd zonder AI-integratie voor het corrigeren van excuses, en het design van deze functionaliteit is nog niet gemaakt.Dit werk is gedaan in mijn branch chatbotpagina, specifiek in de bestanden frontend/voicerecord.js, frontend/voicerecord.html en voicerecord.css.
 
-## -Ik heb gebruikers voor de user tests mee gevonden en geholpen bij het bedenken van goede vragen voor hen.
+-Ik heb gebruikers voor de user tests mee gevonden en geholpen bij het bedenken van goede vragen voor hen.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 

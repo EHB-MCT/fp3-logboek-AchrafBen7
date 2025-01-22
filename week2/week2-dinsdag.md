@@ -10,7 +10,10 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
--Ik heb vandaag gewerkt aan het coderen van de pagina van de voicerecorder. Hoewel het nog niet volledig af is, heb ik al het statische werk afgerond, inclusief het design, en de voicerecorder functioneert met een feedbackmechanisme dat een mening geeft over de opname. Dit alles is gedaan in mijn branch chatbotpagina.
+-Ik heb vandaag gewerkt aan het coderen van de pagina van de voicerecorder.
+Hoewel het nog niet volledig af is, heb ik al het statische werk afgerond, inclusief het design,
+en de voicerecorder functioneert met een feedbackmechanisme dat een mening geeft over de opname.
+Dit alles is gedaan in mijn branch chatbotpagina.
 
 -Het design van de voicerecorderpagina en andere elementen heb ik aangepast op XD, na feedback te hebben gevraagd en gekregen van de groep.
 
